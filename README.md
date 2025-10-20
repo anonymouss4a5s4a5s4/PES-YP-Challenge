@@ -43,10 +43,6 @@ This successful analysis confirms that our integrated dataset is rich with predi
 ### 4. How to Reproduce This Analysis
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [your-repo-url]
-    cd [your-repo-folder]
-    ```
 
 2.  **Install dependencies:**
     ```bash
@@ -55,7 +51,7 @@ This successful analysis confirms that our integrated dataset is rich with predi
 
 3.  **Run the data pipeline:**
     ```bash
-    python insight-e_data_pipeline.py
+    python insight-e.py
     ```
     The script will download the necessary data, perform the analysis, and regenerate the `insight-e_correlation_heatmap.png` file.
 
