@@ -42,7 +42,7 @@ This successful analysis confirms that our integrated dataset is rich with predi
 
 ### 4. How to Reproduce This Analysis
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
 
 2.  **Install dependencies:**
     ```bash
